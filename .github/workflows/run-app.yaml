@@ -3,7 +3,7 @@ name: 'Run App Mintling Shayne'
 on: [push, pull_request]
 
 jobs:
-  check-bats-version:
+  check-bats-version-Mintling-Shayne:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
